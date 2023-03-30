@@ -1,0 +1,15 @@
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\bin\Debug\net6.0\StackDS.exe
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\bin\Debug\net6.0\StackDS.deps.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\bin\Debug\net6.0\StackDS.runtimeconfig.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\bin\Debug\net6.0\StackDS.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\bin\Debug\net6.0\StackDS.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\obj\Debug\net6.0\StackDS.csproj.AssemblyReference.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\obj\Debug\net6.0\StackDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\obj\Debug\net6.0\StackDS.AssemblyInfoInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\obj\Debug\net6.0\StackDS.AssemblyInfo.cs
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\obj\Debug\net6.0\StackDS.csproj.CoreCompileInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\obj\Debug\net6.0\StackDS.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\obj\Debug\net6.0\refint\StackDS.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\obj\Debug\net6.0\StackDS.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\obj\Debug\net6.0\StackDS.genruntimeconfig.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\StackDS\obj\Debug\net6.0\ref\StackDS.dll

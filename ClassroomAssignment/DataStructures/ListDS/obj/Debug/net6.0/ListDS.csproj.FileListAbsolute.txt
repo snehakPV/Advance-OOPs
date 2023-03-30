@@ -1,0 +1,15 @@
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\bin\Debug\net6.0\ListDS.exe
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\bin\Debug\net6.0\ListDS.deps.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\bin\Debug\net6.0\ListDS.runtimeconfig.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\bin\Debug\net6.0\ListDS.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\bin\Debug\net6.0\ListDS.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\obj\Debug\net6.0\ListDS.csproj.AssemblyReference.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\obj\Debug\net6.0\ListDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\obj\Debug\net6.0\ListDS.AssemblyInfoInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\obj\Debug\net6.0\ListDS.AssemblyInfo.cs
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\obj\Debug\net6.0\ListDS.csproj.CoreCompileInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\obj\Debug\net6.0\ListDS.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\obj\Debug\net6.0\refint\ListDS.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\obj\Debug\net6.0\ListDS.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\obj\Debug\net6.0\ListDS.genruntimeconfig.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\ListDS\obj\Debug\net6.0\ref\ListDS.dll

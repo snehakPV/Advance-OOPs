@@ -1,0 +1,15 @@
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\bin\Debug\net6.0\MultiCasting.exe
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\bin\Debug\net6.0\MultiCasting.deps.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\bin\Debug\net6.0\MultiCasting.runtimeconfig.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\bin\Debug\net6.0\MultiCasting.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\bin\Debug\net6.0\MultiCasting.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\obj\Debug\net6.0\MultiCasting.csproj.AssemblyReference.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\obj\Debug\net6.0\MultiCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\obj\Debug\net6.0\MultiCasting.AssemblyInfoInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\obj\Debug\net6.0\MultiCasting.AssemblyInfo.cs
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\obj\Debug\net6.0\MultiCasting.csproj.CoreCompileInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\obj\Debug\net6.0\MultiCasting.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\obj\Debug\net6.0\refint\MultiCasting.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\obj\Debug\net6.0\MultiCasting.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\obj\Debug\net6.0\MultiCasting.genruntimeconfig.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Delegates\MultiCasting\obj\Debug\net6.0\ref\MultiCasting.dll

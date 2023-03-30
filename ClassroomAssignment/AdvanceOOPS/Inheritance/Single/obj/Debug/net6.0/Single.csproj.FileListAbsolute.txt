@@ -1,0 +1,15 @@
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\bin\Debug\net6.0\Single.exe
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\bin\Debug\net6.0\Single.deps.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\bin\Debug\net6.0\Single.runtimeconfig.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\bin\Debug\net6.0\Single.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\bin\Debug\net6.0\Single.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\obj\Debug\net6.0\Single.csproj.AssemblyReference.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\obj\Debug\net6.0\Single.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\obj\Debug\net6.0\Single.AssemblyInfoInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\obj\Debug\net6.0\Single.AssemblyInfo.cs
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\obj\Debug\net6.0\Single.csproj.CoreCompileInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\obj\Debug\net6.0\Single.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\obj\Debug\net6.0\refint\Single.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\obj\Debug\net6.0\Single.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\obj\Debug\net6.0\Single.genruntimeconfig.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\Inheritance\Single\obj\Debug\net6.0\ref\Single.dll

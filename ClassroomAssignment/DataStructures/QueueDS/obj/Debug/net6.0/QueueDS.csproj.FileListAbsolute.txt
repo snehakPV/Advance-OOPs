@@ -1,0 +1,15 @@
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\bin\Debug\net6.0\QueueDS.exe
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\bin\Debug\net6.0\QueueDS.deps.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\bin\Debug\net6.0\QueueDS.runtimeconfig.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\bin\Debug\net6.0\QueueDS.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\bin\Debug\net6.0\QueueDS.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\obj\Debug\net6.0\QueueDS.csproj.AssemblyReference.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\obj\Debug\net6.0\QueueDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\obj\Debug\net6.0\QueueDS.AssemblyInfoInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\obj\Debug\net6.0\QueueDS.AssemblyInfo.cs
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\obj\Debug\net6.0\QueueDS.csproj.CoreCompileInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\obj\Debug\net6.0\QueueDS.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\obj\Debug\net6.0\refint\QueueDS.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\obj\Debug\net6.0\QueueDS.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\obj\Debug\net6.0\QueueDS.genruntimeconfig.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\DataStructures\QueueDS\obj\Debug\net6.0\ref\QueueDS.dll

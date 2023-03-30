@@ -1,0 +1,15 @@
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\bin\Debug\net6.0\ByType.exe
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\bin\Debug\net6.0\ByType.deps.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\bin\Debug\net6.0\ByType.runtimeconfig.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\bin\Debug\net6.0\ByType.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\bin\Debug\net6.0\ByType.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\obj\Debug\net6.0\ByType.csproj.AssemblyReference.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\obj\Debug\net6.0\ByType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\obj\Debug\net6.0\ByType.AssemblyInfoInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\obj\Debug\net6.0\ByType.AssemblyInfo.cs
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\obj\Debug\net6.0\ByType.csproj.CoreCompileInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\obj\Debug\net6.0\ByType.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\obj\Debug\net6.0\refint\ByType.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\obj\Debug\net6.0\ByType.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\obj\Debug\net6.0\ByType.genruntimeconfig.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\Practice\AdvanceOOPS\Polymorphism\CompileTime\ByType\obj\Debug\net6.0\ref\ByType.dll

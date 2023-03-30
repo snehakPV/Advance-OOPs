@@ -1,0 +1,12 @@
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\AdvanceOOPS\Encapsulation\MathsLib\bin\Debug\net6.0\MathsLib.deps.json
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\AdvanceOOPS\Encapsulation\MathsLib\bin\Debug\net6.0\MathsLib.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\AdvanceOOPS\Encapsulation\MathsLib\bin\Debug\net6.0\MathsLib.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\AdvanceOOPS\Encapsulation\MathsLib\obj\Debug\net6.0\MathsLib.csproj.AssemblyReference.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\AdvanceOOPS\Encapsulation\MathsLib\obj\Debug\net6.0\MathsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\AdvanceOOPS\Encapsulation\MathsLib\obj\Debug\net6.0\MathsLib.AssemblyInfoInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\AdvanceOOPS\Encapsulation\MathsLib\obj\Debug\net6.0\MathsLib.AssemblyInfo.cs
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\AdvanceOOPS\Encapsulation\MathsLib\obj\Debug\net6.0\MathsLib.csproj.CoreCompileInputs.cache
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\AdvanceOOPS\Encapsulation\MathsLib\obj\Debug\net6.0\MathsLib.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\AdvanceOOPS\Encapsulation\MathsLib\obj\Debug\net6.0\refint\MathsLib.dll
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\AdvanceOOPS\Encapsulation\MathsLib\obj\Debug\net6.0\MathsLib.pdb
+C:\Users\SnehaKumar\OneDrive - Syncfusion\C#\HomeAssignment\AdvanceOOPS\Encapsulation\MathsLib\obj\Debug\net6.0\ref\MathsLib.dll
